@@ -1,7 +1,7 @@
 {application, kafkamocker,
  [
   {description, "erlang/otp app that simulates a kafka broker"},
-  {vsn, "0.1"},
+  {vsn, "0.1.1"},
   {registered, []},
   {applications, [
                   kernel,
